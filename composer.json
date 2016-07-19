@@ -1,0 +1,12 @@
+{
+    "name": "ore/slim_rensyu",
+    "authors": [
+        {
+            "name": "tadashiy1012",
+            "email": "tadashi.y1012@gmail.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "^3.4"
+    }
+}
